@@ -13,8 +13,8 @@ This repository provides a detailed explanation of **Subnetting, CIDR, and VNet 
 - [CIDR (Classless Inter-Domain Routing)](#cidr-classless-inter-domain-routing)
 - [VNet Peering and VPC Peering](#vnet-peering-and-vpc-peering)
 - [Contributing](#contributing)
-- [License](#license)
 - [VNet vs VPC: Key Differences Between Azure VNet and AWS VPC](#vnet-vs-vpc-key-differences-between-azure-vnet-and-aws-vpc)
+- [License](#license)
 
   
 ---
