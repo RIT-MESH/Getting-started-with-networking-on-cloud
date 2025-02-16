@@ -34,9 +34,7 @@ A **/26 subnet** means:
 
 #### **How many IPs in a /26 subnet?**
 - **Formula:**  
-  \[
-  \text{Total IPs} = 2^{(32 - 26)} = 2^6 = 64
-  \]
+Total IPs = 2^(32 - 26) = 2^6 = 64
 
 #### **How many usable IPs?**
 - **Total IPs = 64**
