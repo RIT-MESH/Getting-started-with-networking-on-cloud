@@ -1,5 +1,3 @@
-# **Subnetting & VNet Peering Guide**
-
 ## **Overview**
 This repository provides a detailed explanation of **Subnetting, CIDR, and VNet Peering** in cloud environments, covering both **Azure VNets and AWS VPC Peering**. It includes:
 - **Understanding Subnetting**
