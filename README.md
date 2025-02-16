@@ -21,8 +21,13 @@ This repository provides a detailed explanation of **Subnetting, CIDR, and VNet 
 An **IP address** is a unique identifier for devices on a network. It exists in two versions:
 - **IPv4 (32-bit)** → Example: `192.168.1.1`
 - **IPv6 (128-bit)** → Example: `2001:0db8:85a3::8a2e:0370:7334`
+  
+Each IP address is divided into two parts:
 
----
+**Network ID (NID):** Identifies the network/subnet.
+
+**Host ID (HID):** Identifies a specific device within that subnet.
+
 
 ## **Subnetting & Dividing a Subnet**
 Subnetting allows dividing a large network into smaller, manageable subnetworks.
